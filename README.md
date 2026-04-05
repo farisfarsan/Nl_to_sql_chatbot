@@ -76,7 +76,7 @@ nl-to-sql-chatbot/
 ├── docker-compose.yml   # Orchestrates app + PostgreSQL
 ├── requirements.txt     # All Python dependencies
 ├── .env                 # API keys and DB credentials (git-ignored)
-└── .env.example         # Environment variable template
+
 ```
 
 ---
